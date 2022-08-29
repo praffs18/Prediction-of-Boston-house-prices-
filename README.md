@@ -2,6 +2,7 @@
 Disclaimer: - Given solution in this project is only use for study purpose.
 
 	In this project I used Applied machine learning concept of Multiple Linear Regression. This project is having dataset of Boston house prices and different parameters, on the basis of those features one need to predict the future price of hoses in that area.
+	
 	This data set is downloaded from Kaggle dataset repository, this dataset is having 506 rows, and 14 feature columns, those are 
 1.	CRIM - per capita crime rate by town
 2.	ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
@@ -17,6 +18,7 @@ Disclaimer: - Given solution in this project is only use for study purpose.
 12.	B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 13.	LSTAT - Percentage lower status of the population
 14.	MEDV - Median value of owner-occupied homes in dollar 1000's
+15.	
 So, first I explore the data checked any missing values are there are not. Then plot the distribution of output variable which looks normal with some outliers.
 # Univariate analysis
 	In this I have plot the distribution and boxplot of all the independent variables.
